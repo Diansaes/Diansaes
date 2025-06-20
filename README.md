@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Diana S.
-- 👀 I’m interested databases and backend development
+
+# Hey, I’m Diana S.
+
+- 👀 I’m interested databases and backend development.
+
 - 🌱 I’m currently learning Nest, Typescript, Apollo graphQL and Generative AI
+
 
 
 <!---

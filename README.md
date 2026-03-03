@@ -19,7 +19,7 @@ Most of my work revolves around:
 - Prototype ideas and test real-world AI behaviors
   
 ---
-##I care about making things work — not just theoretically, but functionally.##
+## I care about making things work — not just theoretically, but functionally. ##
 
 ---
 
